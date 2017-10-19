@@ -1,0 +1,270 @@
+    1  sudo os-prober
+    2  sudo update-grub2
+    3  reboot
+    4  mkdir
+    5  git
+    6  sudo apt install git
+    7  git remote
+    8  cd git
+    9  ls
+   10  mkdir projekt
+   11  cd ppulpit
+   12  mkdir projekt
+   13  cd projekt
+   14  git remote
+   15  touch test.txt
+   16  nano test.txt
+   17  sudo apt-get install git
+   18  git init
+   19  git config --global user.email "rostek77@o2.pl"
+   20  git config --global user.name "rostek77"
+   21  git add .
+   22  nano test.txt
+   23  git add .
+   24  git commit -m "pierwasz zmiana"
+   25  nano test.txt
+   26  git add .
+   27  git commit -m "druga zmiana zmiana"
+   28  git log
+   29  git status
+   30  git remote add origin https://github.com/rostek77/test.git
+   31  git push -u origin master
+   32  gib push
+   33  git push
+   34  history
+   35  history >readme.md
+   36  git commit -a
+   37  git commit -a -m "praca domowa"
+   38  git clone
+   39  git clone -a
+   40  git clone -a 
+   41  git commit -m text1.txt
+   42  git add test2.txt
+   43  git add . test2.txt
+   44  git add tekst2.txt
+   45  pwd
+   46  ls
+   47  git ---version
+   48  git --version
+   49  git ststus
+   50  git status
+   51  git log
+   52  git remote -v
+   53  cd pulpit
+   54  cd ../..
+   55  cd Pulpit
+   56  ls
+   57  cd projekt
+   58  pwd
+   59  cd home
+   60  cd projekt
+   61  cd -/projekt
+   62  cd ../..
+   63  cd projekt
+   64  pwd
+   65  ls
+   66  cd projekt
+   67  git remote -v
+   68  cd projekt
+   69  ls
+   70  cd home
+   71  ls
+   72  cd ..
+   73  cd proc
+   74  ls
+   75  cd ..
+   76  ls
+   77  git remote -v
+   78  git push
+   79  git remote add origin https://github.com/rostek77/test.git
+   80  git remote add origin https://github.com/rostek77/test.gi
+   81  git push -u origin master
+   82  cd projekt
+   83  cd home
+   84  mkdir plan
+   85  cd plan
+   86  mkdir nowy plan
+   87  mkdir torba
+   88  pwd
+   89  cd h/Pulpit/
+   90  ls 
+   91  cd ..
+   92  ls 
+   93  mv projekt/ Pulpit/
+   94  cd Pulpit/projekt/
+   95  ls 
+   96  git status
+   97  cat readme.md 
+   98  git add .
+   99  git commit -m "history"
+  100  git push
+  101  cat readme.md
+  102  history >readme.md
+  103  cat readme.md
+  104  git status
+  105  pwd
+  106  cd ..
+  107  pwd
+  108  mkdir pierwszy katalog
+  109  cd pierwszy katalog
+  110  touch program.c
+  111  ls
+  112  git init
+  113  git add .
+  114  git commit -m "pusty plik program.c
+git commit -m "pusty plik program.c"
+
+pwd
+run
+pwd
+
+
+git add .
+cd ..
+  115  git commit -m "pusty plik program.c"
+  116  run
+  117  git init
+  118  git config --global user.email "rostek77@o2.pl"
+  119  git config --global user.name "rostek77"
+  120  apt-get install git
+  121  git status
+  122  git commit -m "pusty plik program.c"
+  123  git log
+  124  cat ~/.gitconfig
+  125  cat program.c
+  126  cat /home/z/.g
+  127  cat /home/z/.g.gconf/
+  128  git remote add origin https://github.com/rostek77/pierwszy program_w_c.git
+  129  git status
+  130  git pusch 
+  131  git status
+  132  git remote add origin https://github.com/rostek77/pierwszy-program_w_c.git
+  133  git push -u origin master
+  134  nanoi program.c
+  135  nano program.c
+  136  cat program.c
+  137  gcc --version
+  138  gcc program.c -oprogram.o
+  139* 
+  140  nano program.c
+  141  gcc program.c -oprogram.o
+  142  ls
+  143  nano program.c
+  144  gcc program.c -oprogram.o
+  145  ls
+  146  ./program.o
+  147  nano program.c
+  148  ./program.o
+  149  git status
+  150  toush .gitignore
+  151  touch .gitignore
+  152  nano .gitingnore
+  153  git status
+  154  nano .gitignore
+  155  git status
+  156  rm  .gitingnore 
+  157  git status
+  158  git commit -m 
+  159  git commit -m
+  160  git commit -m "pierwszy program zakończony"
+  161  git ststus
+  162  git status
+  163  git push
+  164  git status
+  165  git commit -m "pierwszy program zakonczony"
+  166  git push
+  167  git status
+  168  git add .
+  169  git status
+  170  git push
+  171  git status
+  172  git add .
+  173  git status
+  174  git push
+  175  git status
+  176  git commit -m "pierwszy program zakonczony"
+  177  git push
+  178  git status
+  179  git log
+  180  history >historia.txt
+  181  git push
+  182  git commit -m historia.txt
+  183  git add .
+  184  git pusch
+  185  git status
+  186  git pusch
+  187  git push
+  188  git status
+  189  git commit -m "historia.txt" 
+  190  git push
+  191  git log --help
+  192  git log
+  193  touch readme.md
+  194  nano readme.md 
+  195  rm readme.md 
+  196  cp program.c readme.md
+  197  ls
+  198  nano readme.md 
+  199  git add .
+  200  git commit -m "readme.md"
+  201  git pish
+  202  git push
+  203  nano readme.md 
+  204  git add .
+  205  nano readme.md 
+  206  git add .
+  207  git commit -m "readme.md"
+  208  git push
+  209  nano readme.md 
+  210  git add .
+  211  git commit -m "readme.md"
+  212  git push
+  213  cd ../..
+  214  cd Pulpit
+  215  ls
+  216  pwd
+  217  mkdir drudi_program
+  218  cd drugi_program
+  219  cd drudi_program
+  220  cp program pierwszy/ program.c
+  221  ls
+  222  pierwszy
+  223  cp pierwszy/program.c program.c
+  224  ls
+  225  mv ../program.c program.c
+  226  cp pierwszy program/program.c program.c
+  227  ls ../pierwszy/
+  228  ls ../
+  229  cp ../pierwszy/program.c program.c
+  230  ls
+  231  nano program
+  232  nano program.c
+  233  gcc program.c -o program.o
+  234  nano program.c
+  235  gcc program.c -o program.o
+  236  nano program.c
+  237  gcc program.c -o program.o
+  238  nano program.c
+  239  cat program.c
+  240  gcc program.c -o program.o
+  241  nano program.c
+  242  cat program.c
+  243  gcc program.c -o program.o
+  244  nano program.c
+  245  cat program.c
+  246  gcc program.c -o program.o
+  247  .program.o
+  248  ./program.o
+  249  git add .
+  250  git commit -m program.o
+  251  rename program.c program2.c
+  252  ls
+  253  mv program.c program2.c
+  254  ls
+  255  cp program2.c program3.c
+  256  ls
+  257  ls -la
+  258  hsitory
+  259  history 
+  260  ls -la
+  261  history >hsitoria2.txt
